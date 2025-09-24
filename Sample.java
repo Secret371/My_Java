@@ -130,11 +130,6 @@ public class Sample {
         ll.addLast(4);
         ll.add(2, 9);
         ll.print();
-        //System.out.println(ll.size);
-        //ll.removeFirst();
-        //ll.removeLast();
-        //System.out.println(ll.size);
-
         System.out.println(ll.itrSearch(2));
         System.out.println(ll.itrSearch(10));
     }
